@@ -3,14 +3,14 @@
 ## App description
 DigiWell is an app designed to help teenagers maintain a healthy balance between their digital life and spending time off screen.
 
-## Technologies used
-- Sistem de operare: Windows 10
-- Procesor: x86 sau x64
-- RAM: 1GB (minim) 2GB (recomandat)
-- Hard disk: 500MB necesari pentru instalare
-- Microsoft SQL Server
-- .NET Framework 4.7.2
-- Adobe Acrobat Reader
+# System Requirements  
+- **Operating System**: Windows 10  
+- **Processor**: x86 or x64  
+- **RAM**: 1GB (minimum), 2GB (recommended)  
+- **Hard Disk**: 150MB required for installation  
+- **Microsoft SQL Server**  
+- **.NET Framework 4.7.2**  
+- **Adobe Acrobat Reader**  
 
 ## Features
 
